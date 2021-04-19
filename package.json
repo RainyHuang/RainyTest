@@ -1,0 +1,22 @@
+{
+  "name": "raingtest",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.js",
+  "scripts": {
+    "test": "no"
+  },
+  "repository": {
+    "type": "git",
+    "url": "\\test"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "rainy",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "cowsay": "^1.4.0"
+  }
+}
